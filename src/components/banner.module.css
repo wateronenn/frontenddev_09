@@ -1,0 +1,15 @@
+.banner{
+    width: 80vw;
+    height: 80vw;
+    position: relative;
+}
+
+.bannerText{
+    position: relative;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    color: black;
+    text-align: center;
+}
